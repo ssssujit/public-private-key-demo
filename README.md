@@ -23,7 +23,11 @@ Run the server:
 ```
 ./bin/www
 ```
+#For windows: make sure you have Node.js installed in your system: Edit prefix in npm and npm.cmd: both files
 
+node ./bin/www
+
+``````
 Point a web browser at the demo:
 
 ```
